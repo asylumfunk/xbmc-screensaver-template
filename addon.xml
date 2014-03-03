@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+	id="screensaver.template"
+	name="Screensaver Template"
+	version="0.0.0"
+	provider-name="asylumfunk"
+>
+	<requires>
+		<import addon="xbmc.python" version="2.0" />
+	</requires>
+	<extension point="xbmc.ui.screensaver" library="default.py" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">
+			Screensaver Template
+		</summary>
+		<description lang="en">
+			Screensaver Template
+		</description>
+	</extension>
+</addon>
+

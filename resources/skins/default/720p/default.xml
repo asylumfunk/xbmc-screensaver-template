@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<window>
+	<controls>
+		<control type="image">
+			<description>Black Background</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width>1280</width>
+			<height>720</height>
+			<texture>background-black.png</texture>
+		</control>
+		<control type="label">
+			<label>Screensaver Template</label>
+			<description>Template Label</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width>1280</width>
+			<height>720</height>
+			<textcolor>FFFFFFFF</textcolor>
+			<align>center</align>
+			<aligny>center</aligny>
+		</control>
+	</controls>
+</window>
+
